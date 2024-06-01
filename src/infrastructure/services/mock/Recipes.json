@@ -1,0 +1,101 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "name": "Classic Margherita Pizza",
+            "image": "https://cdn.dummyjson.com/recipe-images/1.webp",
+            "tags": [
+                "Pizza",
+                "Italian"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Vegetarian Stir-Fry",
+            "image": "https://cdn.dummyjson.com/recipe-images/2.webp",
+            "tags": [
+                "Vegetarian",
+                "Stir-fry",
+                "Asian"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Chocolate Chip Cookies",
+            "image": "https://cdn.dummyjson.com/recipe-images/3.webp",
+            "tags": [
+                "Cookies",
+                "Dessert",
+                "Baking"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Chicken Alfredo Pasta",
+            "image": "https://cdn.dummyjson.com/recipe-images/4.webp",
+            "tags": [
+                "Pasta",
+                "Chicken"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Mango Salsa Chicken",
+            "image": "https://cdn.dummyjson.com/recipe-images/5.webp",
+            "tags": [
+                "Chicken",
+                "Salsa"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Quinoa Salad with Avocado",
+            "image": "https://cdn.dummyjson.com/recipe-images/6.webp",
+            "tags": [
+                "Salad",
+                "Quinoa"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Tomato Basil Bruschetta",
+            "image": "https://cdn.dummyjson.com/recipe-images/7.webp",
+            "tags": [
+                "Bruschetta",
+                "Italian"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Beef and Broccoli Stir-Fry",
+            "image": "https://cdn.dummyjson.com/recipe-images/8.webp",
+            "tags": [
+                "Beef",
+                "Stir-fry",
+                "Asian"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Caprese Salad",
+            "image": "https://cdn.dummyjson.com/recipe-images/9.webp",
+            "tags": [
+                "Salad",
+                "Caprese"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Shrimp Scampi Pasta",
+            "image": "https://cdn.dummyjson.com/recipe-images/10.webp",
+            "tags": [
+                "Pasta",
+                "Shrimp"
+            ]
+        }
+
+    ],
+    "total": 50,
+    "skip": 0,
+    "limit": 10
+}
